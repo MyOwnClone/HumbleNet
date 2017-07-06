@@ -1,0 +1,6 @@
+exclude_paths:
+- "3rdparty/boringssl/"
+- "3rdparty/Amalgamate/"
+#- "3rdparty/crc/"
+#- "3rdparty/sha1/"
+#- "3rdparty/libwebsockets/"
